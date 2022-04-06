@@ -1,0 +1,6 @@
+# Folders 
+/node_modules
+/database
+
+# Files
+package-lock.json
